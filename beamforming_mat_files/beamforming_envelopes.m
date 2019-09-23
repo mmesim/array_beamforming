@@ -13,7 +13,7 @@ addpath(genpath(pdir)); %add all *.m scripts to path
 %--------------------------------------------------------------------------
 %% 01. Load data (Sac files)
 display('Loading files..')
-load detections.mat ; load header.mat
+load detections.mat
 !mkdir OUTPUT
 
 %% 02. Loop through events
