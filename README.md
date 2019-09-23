@@ -1,4 +1,4 @@
-# Array_Beamforming
+# Array Beamforming
 
 Two different packages for beamforming.
 
