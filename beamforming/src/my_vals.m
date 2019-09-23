@@ -17,5 +17,9 @@ else
 baz=90-57.296*atan2(Sy,Sx);
 end
 
+if baz<0
+baz=baz+360
+end
+
 
 end
