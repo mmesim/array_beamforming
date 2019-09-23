@@ -28,4 +28,6 @@ Edit the parameter file. Type "beamforming_envelopes" in the command window.
 
 parameter.m, beamforming_envelopes.m & src should be in the same directory. 
 
-To execute the script you should save into a .mat file the output of the envelope detection code. It's necessary to save the detections, waveforms,and header arrays.
+To execute the script you should save into a .mat file the output of the envelope detection code. It's necessary to save the detections, waveforms,and header variables. 
+
+Example: save detections.mat detections saved_wvf header 
