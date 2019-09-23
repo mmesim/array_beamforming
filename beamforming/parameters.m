@@ -3,7 +3,7 @@
 % ---------- M. Mesimeri 08/2019 --------- %
 
 %path to waveforms
-mydata='/uufs/chpc.utah.edu/common/home/koper-group1/mesimeri/Array_Detection/BEAMFORMING/20190414T005754';
+mydata='/BEAMFORMING/20190414T005754';
 %-------------------------------------------------------------------------
 % Parallel settings
 workers=32;                 %Set number of cores to work on a local machine
