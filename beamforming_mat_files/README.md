@@ -11,11 +11,15 @@
 **wstop**: End of the window in seconds. The new waveform will have length stop-start. 
 
 **Sxmin**: Minimun value for Sx
+
 **Sxmax**: Maximum value for Sx
+
 **Sxinc**: Increment for Sx
 
 **Symin**: Minimun value for Sy
+
 **Symax**: Maximum value for Sy
+
 **Syinc**: Increment for Sy
 
 **beam_type**: choose the stacking method 1-linear, 2-2nd root, 3-3rd root, 4-4th root
