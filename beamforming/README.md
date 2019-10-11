@@ -37,4 +37,4 @@
 
 Edit the parameter file. Double check that the path is correct. Type "beamforming" in the command window. 
 
-parameter.m, beamforming.m & src should be in the same directory. Waveforms can be anywhere. an example can be foun in example directory. It should work.  
+parameter.m, beamforming.m & src should be in the same directory. Waveforms can be anywhere. An example can be found in example directory. It should work.  
