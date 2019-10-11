@@ -32,7 +32,6 @@
 
 **beam_type**: choose the stacking method 1-linear, 2-2nd root, 3-3rd root, 4-4th root
 
-*Package written in Matlab for event detection using Large N array*
 
 # Execute
 
